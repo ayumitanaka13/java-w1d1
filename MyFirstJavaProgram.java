@@ -6,11 +6,12 @@ public class MyFirstJavaProgram {
     
     public static void main(String[] args) {
 
-        short numone = 28593;
-        System.out.println(numone);
+        short num = 28593;
+        System.out.println(num);
         
-        short numtwo = -15403;
-        System.out.println(numtwo);
+        num = -15403;
+        System.out.println(num);
+
     }
 
 }

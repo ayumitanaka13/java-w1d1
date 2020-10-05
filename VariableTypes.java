@@ -26,6 +26,8 @@ public class VariableTypes {
         char letter = 'a';
         // char	2 bytes	Stores a single character/letter or ASCII values
 
+        String name = "Ayumi Tanaka";
+
         System.out.println(verySmallNum);
         System.out.println(slightlyBiggerNum);
         System.out.println(evenBiggerNum);
@@ -34,6 +36,7 @@ public class VariableTypes {
         System.out.println(bigDecimalNum);
         System.out.println(isTrue);
         System.out.println(letter);
+        System.out.println(name);
         
         // System.out.println = sysout + tab
     }
